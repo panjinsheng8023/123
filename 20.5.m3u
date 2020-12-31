@@ -34,19 +34,17 @@ http://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8?time=1598246362868
 #EXTINF:-1 ,CCTV-15音乐
 http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 #EXTINF:-1 ,湖南卫视高清
-http://mgsp.live.miguvideo.com/wd-hunanhd-1200/index.m3u8?msisdn=20201217132807b3bc1f93077140aeba2afa82ad065d9e&mdspid=&spid=&netType=0&sid=2201064496&pid=2028597799&timestamp=20201217132807&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=619858170&ParentNodeID=-99&assertID=2201064496&client_ip=103.71.70.76&SecurityKey=20201217132807&mvid=2201064496&mcid=500020&mpid=&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&encrypt=2490ddba3bdd88696d7350b6275ea231
+http://39.134.65.162/PLTV/88888888/224/3221225506/index.m3u8
 #EXTINF:-1 ,湖南卫视高清
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 ,浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/360p.m3u8
 #EXTINF:-1 ,浙江卫视
-http://aliyun3a-live.bestvcdn.com.cn/live/program/Dsitv.mobile.live.bestvcdn.com.cnD/_2nce001PIB_keyE22218209730F585CBB35325D6420408627A2D74CFF9A1ED307D9558A945918C_/live/zjwshd/4000000/mnf.m3u8
+http://hw-m-l.cztv.com/channels/lantian/channel01/360p.m3u8
 #EXTINF:-1 ,江苏卫视高清
-http://yztv.wshls.homecdn.com/live/1bd81.flv?t=1608186322&k=0da4e7317b87e91054d48d951a6cf692
-#EXTINF:-1 ,江苏卫视高清
-http://aliyun3a-live.bestvcdn.com.cn/live/program/Dsitv.mobile.live.bestvcdn.com.cnD/_2nce001PIB_keyE22218209730F585CBB35325D6420408627A2D74CFF9A1ED307D9558A945918C_/live/jswshd/4000000/mnf.m3u8
+http://yztv.wshls.homecdn.com/live/1bd81.flv?t=1609418157&k=a11a5712ec75bc91e362f8a45a93d91b
 #EXTINF:-1 ,北京卫视高清
-http://aliyun3a-live.bestvcdn.com.cn/live/program/Dsitv.mobile.live.bestvcdn.com.cnD/_2nce001PIB_keyE22218209730F585CBB35325D6420408627A2D74CFF9A1ED307D9558A945918C_/live/bjwshd/4000000/mnf.m3u8
+http://yztv.wshls.homecdn.com/live/1bd71.flv?t=1609416071&k=bd223a1a774a1dc6fedc803b7029ef1b
 #EXTINF:-1 ,深圳卫视高清
 http://yztv.wshls.homecdn.com/live/1bd61.flv?t=1608185195&k=7b4e376f5914a12468e545a862e04670
 #EXTINF:-1 ,深圳卫视高清
