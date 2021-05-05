@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=7827afa1fd19341446f71056-160583440715528&wsIPSercert=e268533b6cecf04efaf49fc5dcdeab24&wsMonitor=0
+#EXTINF:-1 ,凤凰卫视中文HD
+http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
+#EXTINF:-1 ,CCTV-1HD
+http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8?time=1598245668076
+#EXTINF:-1 ,CCTV-1HD
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 ,CCTV-2财经
+http://cctv5ksh5ca.v.kcdnvip.com/live/cctv2_2/index.m3u8?BR=hd&region=beijing&time=1605833352874
+#EXTINF:-1 ,CCTV-3综艺
+http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8?time=1598245964499
+#EXTINF:-1 ,CCTV-4中文国际
+http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
+#EXTINF:-1 ,CCTV-5HD
+http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
+#EXTINF:-1 ,CCTV-6电影
+http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+#EXTINF:-1 ,CCTV-7国防军事
+http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
+#EXTINF:-1 ,CCTV-8电视剧
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 ,CCTV-9记录频道
+http://cctv5ksh5ca.v.kcdnvip.com/live/cctvjilu_2/index.m3u8
+#EXTINF:-1 ,CCTV-10科教
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2_hd.m3u8
+#EXTINF:-1 ,CCTV-13新闻
+http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+#EXTINF:-1 ,CCTV-13新闻高清
+http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8?time=1605833575510
+#EXTINF:-1 ,CCTV-14少儿
+http://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8?time=1598246362868
+#EXTINF:-1 ,CCTV-15音乐
+http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
+#EXTINF:-1 ,湖南卫视高清
+http://39.134.65.162/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 ,湖南卫视高清
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 ,浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel01/360p.m3u8
+#EXTINF:-1 ,浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel01/360p.m3u8
+#EXTINF:-1 ,江苏卫视高清
+https://live2021hls-yf.jstv.com/live/jswspindao-1000/online.m3u8?upt=79fa85311620131856
+#EXTINF:-1 ,北京卫视高清
+http://ivi.bupt.edu.cn/hls/btv1.m3u8
+#EXTINF:-1 ,深圳卫视高清
+http://yztv.wshls.homecdn.com/live/1bd61.flv?t=1608185195&k=7b4e376f5914a12468e545a862e04670
+#EXTINF:-1 ,深圳卫视高清
+http://aliyun3a-live.bestvcdn.com.cn/live/program/Dsitv.mobile.live.bestvcdn.com.cnD/_2nce001PIB_keyE22218209730F585CBB35325D6420408627A2D74CFF9A1ED307D9558A945918C_/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,第一财经
+http://w1.livecdn.yicai.com/hls/live/CBN_sd/live.m3u8
+#EXTINF:-1 ,东方卫视高清
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 ,辽宁卫视高清
+http://liveplay-kk.rtxapp.com/live/program/live/lnwshd/2300000/mnf.m3u8
+#EXTINF:-1 ,天津卫视高清
+http://liveplay-kk.rtxapp.com/live/program/live/tjwshd/2300000/mnf.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://liveplay-kk.rtxapp.com/live/program/live/lnwshd/2300000/mnf.m3u8
+#EXTINF:-1,中国之声
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1,经济之声
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 ,音乐之声
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1,经典音乐广播
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1,中央人民广播电台神州之声
+http://ngcdn006.cnr.cn/live/szzs48/index.m3u8
+#EXTINF:-1,中央人民广播电台香港之声
+http://ngcdn008.cnr.cn/live/xgzs48/index.m3u8
+#EXTINF:-1,中央人民广播电台文艺之声
+http://ngcdn010.cnr.cn/live/wyzs48/index.m3u8
+#EXTINF:-1,CRI环球资讯广播FM90.5
+http://sk.cri.cn/905.m3u8
+#EXTINF:-1,CRI中文环球广播
+http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1,第一财经FM97.7
+http://live.xmcdn.com/live/56/64.m3u8
+#EXTINF:-1,第一财经FM97.7
+http://ls.qingting.fm/live/276.m3u8
+#EXTINF:-1,NHK中文广播（630-650 1200-2300间断广播）
+https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263948/live_s.m3u8
+#EXTINF:-1,自由亚洲RFA中文
+https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
+#EXTINF:-1,山西文艺广播FM101.5
+http://live.xmcdn.com/live/887/64.m3u8
+#EXTINF:-1,山西交通频道FM88.0
+http://live.xmcdn.com/live/885/64.m3u8
+#EXTINF:-1,山西音乐广播FM94
+http://live.xmcdn.com/live/886/64.m3u8
+#EXTINF:-1,江苏流行音乐广播
+http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
+#EXTINF:-1 ,北京卡酷少儿
+http://ivi.bupt.edu.cn/hls/btv10.m3u8
+#EXTINF:-1 ,浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 ,金鹰卡通
+http://117.148.187.37/PLTV/88888888/224/3221226190/index.m3u8
+#EXTINF:-1 ,动漫秀场
+http://39.134.52.180/PLTV/88888888/224/3221225820/index.m3u8
+#EXTINF:-1 ,优漫卡通
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
+#EXTINF:-1,黑莓动画
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
+#EXTINF:-1,蓝光动画
+http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
+#EXTINF:-1,哈哈炫动
+http://210.210.155.35/qwr9ew/s/s50/index.m3u8
